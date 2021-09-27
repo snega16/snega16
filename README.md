@@ -18,11 +18,11 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" alt="keras" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
-<h3 align="left"> Tools:</h3>
-<img align="left" alt="Visual Studio Code" width="40" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
-<img align="left" alt="Git" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
-<img align="left" alt="GitHub" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg" />
 
+  
+<h3 align="left"> Connect with me:</h3>
+<a href="https://www.linkedin.com/in/snega-s-a286661b6" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="linkedin" align="center"></a>
+<a href="https://twitter.com/snega1611?s=03" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/twitter.svg" height="80px" width="80px" alt="twitter align="center"></a>
 <!---
 snega16/snega16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
