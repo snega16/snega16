@@ -1,7 +1,9 @@
 <h1 align='center'> Helo all :wave:</h1>
 - I’m Snega
+<hr>
 - 👀 I’m interested in Machine Learning and Web Development
-- 💞️ I’m looking to collaborate on both ml and web projects
+<hr>
+- 💞️ I’m looking to collaborate on ml and node.js projects
 
 <h3 align="left">Technologies:-</h3>
 <p align="left">
@@ -20,7 +22,7 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
 
 <h3 align="left">Visit my blog:</h3>
-<a href="https://snega16.blogspot.com/?m=1">Blog</a>
+<a href="https://snega16.blogspot.com/?m=1">Machine Learning Slope</a>
   
 <h3 align="left"> Connect with me:</h3>
 <a href="https://www.linkedin.com/in/snega-s-a286661b6" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="linkedin" align="center"></a>
