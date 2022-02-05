@@ -22,7 +22,7 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
 
 <h3 align="left">Visit my blog:</h3>
-<a href="https://snega-s.medium.com/https://snega-s.medium.com/">Snega is On Medium</a>
+<a href="https://snega-s.medium.com/">Snega is On Medium</a>
   
 <h3 align="left"> Connect with me:</h3>
 <a href="https://www.linkedin.com/in/snega-s-a286661b6" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="linkedin" align="center"></a>
